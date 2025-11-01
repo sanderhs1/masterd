@@ -1,0 +1,71 @@
+sender,receiver,date,subject,body,urls,label,dataset_source
+promo612@deals.example,you@example.com,"Mon, 19 Apr 2021 20:19:00 -0500",Limited Time Deal - 70% OFF,Huge savings on top brands. Visit http://offers520.example/claim to shop now. Offer expires soon!,1,1,SyntheticSpam
+Alice Johnson <alice.johnson@acme.example>,Team <team@acme.example>,"Mon, 04 Jul 2022 03:59:00 -0500",Research collaboration,Would you be interested in collaborating on the research paper? Happy to discuss ideas.,0,0,SyntheticHam
+security-alert@accounts.example,user@example.com,"Sun, 13 Feb 2022 21:41:00 -0500",Bank Alert: Unauthorized Login Attempt,A login was detected from a new device. Confirm if this was you: https://login.example-secure.com/verify?id=426858,1,2,SyntheticPhish
+HR <hr@company.example>,employee@example.com,"Fri, 13 Aug 2021 21:20:00 -0500",Team outing,Reminder: Team outing on Saturday. Please RSVP if you haven't.,0,0,SyntheticHam
+Colleague <sara@office.example>,you@example.com,"Sun, 28 Aug 2022 13:02:00 -0500",Lunch plans,"Hey, are you free for lunch tomorrow at 12? There's a new cafe downtown I'd like to try.",0,0,SyntheticHam
+Support <support@service.example>,you@example.com,"Sun, 11 Sep 2022 08:51:00 -0500",Family photos,Hi — sharing the photos from our trip. Hope you enjoy them.,0,0,SyntheticHam
+promo963@deals.example,you@example.com,"Sat, 22 Apr 2023 01:51:00 -0500",Special Offer! Buy now and save,Congratulations! You've been selected for an exclusive offer. Click here to claim your discount: http://offers235.example/claim,1,1,SyntheticSpam
+security-alert@secure.example,user@example.com,"Tue, 04 May 2021 07:14:00 -0500",Security Notice: Reset your password,"To secure your account, reset your password here: https://login.example-secure.com/verify?id=573417",1,2,SyntheticPhish
+promo758@deals.example,you@example.com,"Wed, 29 Sep 2021 04:15:00 -0500",You've won a prize!,You are the lucky winner! Claim your reward at http://offers147.example/claim,1,1,SyntheticSpam
+promo680@deals.example,you@example.com,"Thu, 03 Nov 2022 15:25:00 -0500",Work from home - Earn $500/day,Start earning today. Sign up at http://offers218.example/claim for instant access.,1,1,SyntheticSpam
+security-alert@banking.example,user@example.com,"Mon, 29 Mar 2021 23:31:00 -0500",Bank Alert: Unauthorized Login Attempt,A login was detected from a new device. Confirm if this was you: https://login.example-secure.com/verify?id=182582,1,2,SyntheticPhish
+security-alert@banking.example,user@example.com,"Fri, 07 Apr 2023 09:15:00 -0500",Important: Verify your account,We detected suspicious activity. Please verify your account immediately at https://account.verify-example.com/verify?id=972064 to avoid suspension.,1,2,SyntheticPhish
+promo538@deals.example,you@example.com,"Thu, 06 Jan 2022 07:08:00 -0500",Get cheap medications online,No prescription needed. Order now at http://offers409.example/claim,1,1,SyntheticSpam
+Support <support@service.example>,you@example.com,"Sat, 15 Jan 2022 11:13:00 -0500",Your appointment confirmation,This is a confirmation for your appointment on Friday at 3pm. Please reply if you need to reschedule.,0,0,SyntheticHam
+HR <hr@company.example>,employee@example.com,"Fri, 26 May 2023 07:55:00 -0500",Lunch plans,"Hey, are you free for lunch tomorrow at 12? There's a new cafe downtown I'd like to try.",0,0,SyntheticHam
+security-alert@banking.example,user@example.com,"Sun, 09 Oct 2022 01:14:00 -0500",Important: Verify your account,We detected suspicious activity. Please verify your account immediately at https://secure-login.example/verify?id=842225 to avoid suspension.,1,2,SyntheticPhish
+Colleague <sara@office.example>,you@example.com,"Thu, 17 Jun 2021 14:24:00 -0500",Monthly report,Attached is the monthly report. Let me know if you'd like any changes.,0,0,SyntheticHam
+promo564@deals.example,you@example.com,"Tue, 10 Jan 2023 23:16:00 -0500",Special Offer! Buy now and save,Congratulations! You've been selected for an exclusive offer. Click here to claim your discount: http://offers977.example/claim,1,1,SyntheticSpam
+promo423@deals.example,you@example.com,"Tue, 09 Mar 2021 06:58:00 -0500",You've won a prize!,You are the lucky winner! Claim your reward at http://offers275.example/claim,1,1,SyntheticSpam
+promo621@deals.example,you@example.com,"Mon, 13 Feb 2023 01:55:00 -0500",You've won a prize!,You are the lucky winner! Claim your reward at http://offers94.example/claim,1,1,SyntheticSpam
+Dave Rogers <dave@friends.example>,you@example.com,"Wed, 25 Jan 2023 03:43:00 -0500",Your appointment confirmation,This is a confirmation for your appointment on Friday at 3pm. Please reply if you need to reschedule.,0,0,SyntheticHam
+security-alert@accounts.example,user@example.com,"Wed, 15 Mar 2023 15:51:00 -0500",Invoice Attached - View Now,An invoice requires your approval. View the document securely at https://account.verify-example.com/verify?id=354801,1,2,SyntheticPhish
+security-alert@accounts.example,user@example.com,"Sun, 16 May 2021 23:59:00 -0500",Security Notice: Reset your password,"To secure your account, reset your password here: https://secure-login.example/verify?id=665427",1,2,SyntheticPhish
+promo838@deals.example,you@example.com,"Mon, 04 Jul 2022 08:49:00 -0500",Special Offer! Buy now and save,Congratulations! You've been selected for an exclusive offer. Click here to claim your discount: http://offers699.example/claim,1,1,SyntheticSpam
+security-alert@banking.example,user@example.com,"Mon, 07 Nov 2022 15:35:00 -0500",Invoice Attached - View Now,An invoice requires your approval. View the document securely at https://secure-login.example/verify?id=234628,1,2,SyntheticPhish
+Bob Martin <bob.martin@workplace.example>,you@example.com,"Wed, 09 Nov 2022 07:49:00 -0500",Project sync,"Hi team,
+
+Please find the updated project timeline attached. Let's discuss in tomorrow's stand-up.
+
+Thanks,
+Alice",0,0,SyntheticHam
+promo756@deals.example,you@example.com,"Thu, 28 Oct 2021 13:10:00 -0500",Work from home - Earn $500/day,Start earning today. Sign up at http://offers115.example/claim for instant access.,1,1,SyntheticSpam
+Newsletter <newsletter@news.example>,subscriber@example.com,"Tue, 12 Oct 2021 04:13:00 -0500",Family photos,Hi — sharing the photos from our trip. Hope you enjoy them.,0,0,SyntheticHam
+security-alert@banking.example,user@example.com,"Fri, 22 Jul 2022 07:37:00 -0500",Action Required: Update Payment Method,Your payment method failed. Update it now to avoid service interruption: https://secure-login.example/verify?id=716886,1,2,SyntheticPhish
+promo862@deals.example,you@example.com,"Mon, 27 Sep 2021 23:37:00 -0500",Get cheap medications online,No prescription needed. Order now at http://offers552.example/claim,1,1,SyntheticSpam
+security-alert@banking.example,user@example.com,"Thu, 10 Mar 2022 06:59:00 -0500",Action Required: Update Payment Method,Your payment method failed. Update it now to avoid service interruption: https://login.example-secure.com/verify?id=736059,1,2,SyntheticPhish
+Colleague <sara@office.example>,you@example.com,"Sat, 14 Aug 2021 14:37:00 -0500",Invoice for services,"Hello, please find the invoice for the completed work. Paid via portal when convenient.",0,0,SyntheticHam
+Bob Martin <bob.martin@workplace.example>,you@example.com,"Mon, 30 Jan 2023 08:15:00 -0500",Project sync,"Hi team,
+
+Please find the updated project timeline attached. Let's discuss in tomorrow's stand-up.
+
+Thanks,
+Alice",0,0,SyntheticHam
+Alice Johnson <alice.johnson@acme.example>,Team <team@acme.example>,"Thu, 12 Aug 2021 07:32:00 -0500",Lunch plans,"Hey, are you free for lunch tomorrow at 12? There's a new cafe downtown I'd like to try.",0,0,SyntheticHam
+security-alert@accounts.example,user@example.com,"Mon, 16 Jan 2023 10:51:00 -0500",Important: Verify your account,We detected suspicious activity. Please verify your account immediately at https://secure-login.example/verify?id=522179 to avoid suspension.,1,2,SyntheticPhish
+security-alert@banking.example,user@example.com,"Tue, 06 Sep 2022 10:31:00 -0500",Invoice Attached - View Now,An invoice requires your approval. View the document securely at https://login.example-secure.com/verify?id=100599,1,2,SyntheticPhish
+security-alert@banking.example,user@example.com,"Sat, 11 Jun 2022 07:17:00 -0500",Important: Verify your account,We detected suspicious activity. Please verify your account immediately at https://account.verify-example.com/verify?id=174299 to avoid suspension.,1,2,SyntheticPhish
+Vendor <sales@vendor.example>,procurement@example.com,"Fri, 29 Jul 2022 06:45:00 -0500",Project sync,"Hi team,
+
+Please find the updated project timeline attached. Let's discuss in tomorrow's stand-up.
+
+Thanks,
+Alice",0,0,SyntheticHam
+security-alert@secure.example,user@example.com,"Thu, 25 Feb 2021 21:41:00 -0500",Security Notice: Reset your password,"To secure your account, reset your password here: https://account.verify-example.com/verify?id=864491",1,2,SyntheticPhish
+promo641@deals.example,you@example.com,"Thu, 21 Jul 2022 00:43:00 -0500",Work from home - Earn $500/day,Start earning today. Sign up at http://offers995.example/claim for instant access.,1,1,SyntheticSpam
+HR <hr@company.example>,employee@example.com,"Fri, 16 Sep 2022 20:10:00 -0500",Lunch plans,"Hey, are you free for lunch tomorrow at 12? There's a new cafe downtown I'd like to try.",0,0,SyntheticHam
+Newsletter <newsletter@news.example>,subscriber@example.com,"Wed, 20 Jul 2022 09:53:00 -0500",Lunch plans,"Hey, are you free for lunch tomorrow at 12? There's a new cafe downtown I'd like to try.",0,0,SyntheticHam
+promo212@deals.example,you@example.com,"Sun, 13 Jun 2021 21:27:00 -0500",Limited Time Deal - 70% OFF,Huge savings on top brands. Visit http://offers643.example/claim to shop now. Offer expires soon!,1,1,SyntheticSpam
+Support <support@service.example>,you@example.com,"Mon, 05 Apr 2021 12:06:00 -0500",Lunch plans,"Hey, are you free for lunch tomorrow at 12? There's a new cafe downtown I'd like to try.",0,0,SyntheticHam
+promo710@deals.example,you@example.com,"Wed, 26 Jan 2022 19:29:00 -0500",Special Offer! Buy now and save,Congratulations! You've been selected for an exclusive offer. Click here to claim your discount: http://offers395.example/claim,1,1,SyntheticSpam
+promo961@deals.example,you@example.com,"Fri, 23 Jul 2021 04:23:00 -0500",Get cheap medications online,No prescription needed. Order now at http://offers624.example/claim,1,1,SyntheticSpam
+security-alert@secure.example,user@example.com,"Sun, 06 Nov 2022 13:22:00 -0500",Bank Alert: Unauthorized Login Attempt,A login was detected from a new device. Confirm if this was you: https://secure-login.example/verify?id=201639,1,2,SyntheticPhish
+Vendor <sales@vendor.example>,procurement@example.com,"Mon, 15 Aug 2022 06:45:00 -0500",Family photos,Hi — sharing the photos from our trip. Hope you enjoy them.,0,0,SyntheticHam
+Bob Martin <bob.martin@workplace.example>,you@example.com,"Tue, 12 Oct 2021 14:40:00 -0500",Invoice for services,"Hello, please find the invoice for the completed work. Paid via portal when convenient.",0,0,SyntheticHam
+HR <hr@company.example>,employee@example.com,"Fri, 17 Feb 2023 05:44:00 -0500",Project sync,"Hi team,
+
+Please find the updated project timeline attached. Let's discuss in tomorrow's stand-up.
+
+Thanks,
+Alice",0,0,SyntheticHam
